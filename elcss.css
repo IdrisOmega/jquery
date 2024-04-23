@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(140, 140, 140);
+}
+
+#contenedor2{
+    display: flex;
+    margin-top: 50px;
+    border: solid;
+    margin-right:50% ;
+    width: 70%;
+    height: 70px;
+    background-color: antiquewhite;    
+}
+#tarea{
+    width: 55%;
+    border: solid;
+}
+#botontarea{
+    border: solid;
+}
